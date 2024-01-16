@@ -1,1 +1,5 @@
 openai_key_file: "azure_openai_key.txt"
+deployment_name: 'your_deployment_name'
+api_version: '2023-05-15'
+api_type: 'azure'
+endpoint: 'https://your_endpoint_name.openai.azure.com/'
